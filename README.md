@@ -57,7 +57,7 @@
 
 <b>Pinbelegung</b>
 
-![GT1001-Pinbelegung](GT1001-Pin.png)
+![GT1001-Pinbelegung](GT1001-Pin.png) 
 
 <h2>Technische Daten RS485 to Ethernet mit GT1001</h2>
 <table>
@@ -73,4 +73,4 @@ Die Standard-Baudrate ist 9600. Die Baudrate kann über die WEB-Einstellungen au
 
 Parität kann keine Parität, gerade Parität und ungerade Parität sein.
 
-![ET69C02](ET69C02.jpg)
+![ET69C02](ET69C02.jpg) ![ET69C02-Multi](ET69C02-Multi.jpg)
