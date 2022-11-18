@@ -34,23 +34,23 @@
 - Unterstützt Offline-Cache, der maximale Cache beträgt 64 KB
 
 <b>Produktparameter</b>
-Betriebsspannung							3,3 V/5,0 V (wahlweise)
-Arbeitsstrom								15 mA bei 3,3 V/5,0 V
-Typ des Netzwerkports						RJ45
-Serielle Baudrate							600 bps bis 230,4 kbps
-Methode prüfen								Keine, Ungerade, Gerade, Mark, Leerzeichen
-Serieller Standard							Kompatibel mit TTL-3,3 V/TTL-5,0 V
-
-Netzwerkprotokoll							IP, TCP/UDP, ARP, ICMP, IPV4
-IP-Erfassungsmethode						Statische IP, DHCP
-DNS											unterstützt
-Benutzer Konfiguration						TCP-Server/TCP-Client/UDP/Modbus/MQTT
-HTTP-Client	Unterstützung
-Web-Cache									Senden: 536 Byte; Empfangen: 536 Btye
-Empfangspuffer für serielle Schnittstelle	Dualer 1K-Byte-Cache
-durchschnittliche Übertragungsverzögerung	<10ms
-Verpackungsmechanismus						5 Byte Packzeit
-
-Betriebstemperatur							-40 ~85°C
-Lagertemperatur								-40 ~105°C
-Größe (cm)									3,2*2,1*2,4 (L*B*H)	3*2 (L*B)
+<table>
+<tr><td>Betriebsspannung</td>							<td>3,3 V/5,0 V (wahlweise)</td></tr>
+<tr><td>Arbeitsstrom	</td>							<td>15 mA bei 3,3 V/5,0 V</td></tr>
+<tr><td>Typ des Netzwerkports</td>						<td>RJ45</td></tr>
+<tr><td>Serielle Baudrate</td>							<td>600 bps bis 230,4 kbps</td></tr>
+<tr><td>Methode prüfen</td>								<td>Keine, Ungerade, Gerade, Mark, Leerzeichen</td></tr>
+<tr><td>Serieller Standard</td>							<td>Kompatibel mit TTL-3,3 V/TTL-5,0 V</td></tr>
+<tr><td>Netzwerkprotokoll</td>							<td>IP, TCP/UDP, ARP, ICMP, IPV4</td></tr>
+<tr><td>IP-Erfassungsmethode</td>						<td>Statische IP, DHCP</td></tr>
+<tr><td>DNS	</td>										<td>unterstützt</td></tr>
+<tr><td>Benutzer Konfiguration</td>						<td>TCP-Server/TCP-Client/UDP/Modbus/MQTT</td></tr>
+<tr><td>HTTP-Client	Unterstützung</td><td></td></tr>
+<tr><td>Web-Cache	</td>								<td>Senden: 536 Byte; Empfangen: 536 Btye</td></tr>
+<tr><td>Empfangspuffer für serielle Schnittstelle</td>	<td>Dualer 1K-Byte-Cache</td></tr>
+<tr><td>durchschnittliche Übertragungsverzögerung</td>	<td><10ms</td></tr>
+<tr><td>Verpackungsmechanismus</td>						<td>5 Byte Packzeit</td></tr>
+<tr><td>Betriebstemperatur</td>							<td>-40 ~85°C</td></tr>
+<tr><td>Lagertemperatur</td>							<td>-40 ~105°C</td></tr>
+<tr><td>Größe (cm)	</td>								<td>3,2*2,1*2,4 (L*B*H)	3*2 (L*B)</td></tr>
+</table>
