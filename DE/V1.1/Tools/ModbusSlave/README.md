@@ -41,4 +41,4 @@ OLE Automation für die Verbindung mit Excel. Zur Interpretation und Darstellung
 - 22: Register schreiben maskieren
 - 23: Lesen/Schreiben von Registern
 
-Das komplatte User-Manual gibt es hier: https://www.modbustools.com/mbslave-user-manual.html
+Das komplette User-Manual gibt es hier: https://www.modbustools.com/mbslave-user-manual.html
