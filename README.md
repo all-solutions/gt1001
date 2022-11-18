@@ -58,3 +58,17 @@
 <b>Pinbelegung</b>
 
 ![GT1001-Pinbelegung](GT1001-Pin.png)
+
+<h2>Technische Daten RS485 to Ethernet mit GT1001</h2>
+<table>
+<tr><td>Betriebsspannung </td><td>DC 12V (DC 6.5-25V)</td></tr>
+<tr><td>Arbeitsstrom </td><td>20-25mA</td></tr>
+<tr><td>Arbeitsmodus </td><td>UDP, TCP-Client, TCP-Server, Modbus-Slave, Modbus-Master, MQTT</td></tr>
+<tr><td>Größe </td><td>72*37*24mm (nur Leiterplatte); 82*41*40mm (mit DIN-Schienengehäuse)</td></tr>
+<tr><td>Gewicht </td><td>24g (nur Leiterplatte); 58g (mit DIN-Schienengehäuse)</td></tr>
+</table>
+TVS Anti-Surge-Schutz
+Die Standard-Baudrate ist 9600. Die Baudrate kann über die WEB-Einstellungen ausgewählt werden (1200 2400 4800 9600 19200 38400 57600 115200).
+Parität kann keine Parität, gerade Parität und ungerade Parität sein.
+
+![ET69C02](ET69C02.jpg)
