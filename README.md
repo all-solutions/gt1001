@@ -54,3 +54,7 @@
 <tr><td>Lagertemperatur</td>							<td>-40 ~105°C</td></tr>
 <tr><td>Größe (cm)	</td>								<td>3,2*2,1*2,4 (L*B*H)	3*2 (L*B)</td></tr>
 </table>
+
+<b>Pinbelegung</b>
+
+![GT1001-Pinbelegung](GT1001-Pin.png)
