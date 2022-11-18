@@ -8,7 +8,7 @@ HW VSP ist ein Softwaretreiber, der dem Betriebssystem eine virtuelle serielle S
 
 <b>Features:</b>
 - Kostenloser, uneingeschränkter Virtual Serial Port-Treiber für beliebige TCP/IP-Geräte
-- Kompatibel mit Windows 2000, XP, Windows 8, Windows 8 NEU& sogar mit 32-bit oder 64-bit.
+- Kompatibel mit Windows 2000, XP, Windows 8, Windows 8, Windows 10, Windows 11, sogar mit 32-bit oder 64-bit.
 - Läuft als eigenständige Anwendung oder als NT-Dienst, der für Server geeignet ist
 - Option zum Starten beim Windows-Start und Minimieren in die Systemablage
 - Single-Port (kostenlos) und Multi-Port (kommerziell) Version
