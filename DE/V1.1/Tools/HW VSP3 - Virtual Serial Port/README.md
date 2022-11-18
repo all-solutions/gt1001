@@ -1,6 +1,8 @@
 <h2>HW VSP3 - Virtual Serial Port</h2>
 
-HW VSP ist ein Softwaretreiber, der dem Betriebssystem eine virtuelle serielle Schnittstelle (z.B. COM5) hinzufügt und die Daten von dieser Schnittstelle über ein TCP/IP-Netzwerk an eine andere Hardwareschnittstelle umleitet, die durch ihre IP-Adresse und Portnummer angegeben wird. HW VSP3 unterstützt sogar NT Services und 64 Bit Windows 8 .
+HW VSP ist ein Softwaretreiber, der dem Betriebssystem eine virtuelle serielle Schnittstelle (z.B. COM5) hinzufügt und die Daten von dieser Schnittstelle über ein TCP/IP-Netzwerk an eine andere Hardwareschnittstelle umleitet, die durch ihre IP-Adresse und Portnummer angegeben wird. HW VSP3 unterstützt sogar NT Services und 64 Bit Windows 8.
+
+![alt text](https://www.hw-group.com/files/styles/hwg_distrib_product_medium/public/swapplication/5472-hw-vsp3-virtual-serial-port/hwvsp3port.png?itok=DUju9QAW)
 
 <b>Lizenztyp:</b> Freeware
 
@@ -16,6 +18,5 @@ HW VSP ist ein Softwaretreiber, der dem Betriebssystem eine virtuelle serielle S
 - Die Konfiguration ist mit einem Passwort geschützt
 - Unterstützt UAC (Benutzerkontensteuerung)
 
-![alt text](https://www.hw-group.com/files/styles/hwg_distrib_product_medium/public/swapplication/5472-hw-vsp3-virtual-serial-port/hwvsp3port.png?itok=DUju9QAW)
 
 Bereitgestellt durch die HW-Group (https://www.hw-group.com/software/hw-vsp3-virtual-serial-port)
