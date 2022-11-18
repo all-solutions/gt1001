@@ -67,10 +67,8 @@
 <tr><td>Größe </td><td>72*37*24mm (nur Leiterplatte); 82*41*40mm (mit DIN-Schienengehäuse)</td></tr>
 <tr><td>Gewicht </td><td>24g (nur Leiterplatte); 58g (mit DIN-Schienengehäuse)</td></tr>
 </table>
-TVS Anti-Surge-Schutz
-
-Die Standard-Baudrate ist 9600. Die Baudrate kann über die WEB-Einstellungen ausgewählt werden (1200 2400 4800 9600 19200 38400 57600 115200).
-
+TVS Anti-Surge-Schutz<br>
+Die Standard-Baudrate ist 9600. Die Baudrate kann über die WEB-Einstellungen ausgewählt werden (1200 2400 4800 9600 19200 38400 57600 115200).<br>
 Parität kann keine Parität, gerade Parität und ungerade Parität sein.
 
 ![ET69C02](ET69C02.jpg) ![ET69C02-Multi](ET69C02-Multi.jpg)
