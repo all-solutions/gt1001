@@ -15,3 +15,7 @@ HW VSP ist ein Softwaretreiber, der dem Betriebssystem eine virtuelle serielle S
 - Konfiguration wird in einer INI-Datei gespeichert
 - Die Konfiguration ist mit einem Passwort geschützt
 - Unterstützt UAC (Benutzerkontensteuerung)
+
+![alt text](https://www.hw-group.com/files/styles/hwg_distrib_product_medium/public/swapplication/5472-hw-vsp3-virtual-serial-port/hwvsp3port.png?itok=DUju9QAW)
+
+Bereitgestellt durch die HW-Group (https://www.hw-group.com/software/hw-vsp3-virtual-serial-port)
