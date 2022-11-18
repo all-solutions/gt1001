@@ -45,7 +45,7 @@
 <tr><td>IP-Erfassungsmethode</td>						<td>Statische IP, DHCP</td></tr>
 <tr><td>DNS	</td>										<td>unterstützt</td></tr>
 <tr><td>Benutzer Konfiguration</td>						<td>TCP-Server/TCP-Client/UDP/Modbus/MQTT</td></tr>
-<tr><td>HTTP-Client	Unterstützung</td><td></td></tr>
+<tr><td>HTTP-Client	</td>								<td>unterstützt</td></tr>
 <tr><td>Web-Cache	</td>								<td>Senden: 536 Byte; Empfangen: 536 Btye</td></tr>
 <tr><td>Empfangspuffer für serielle Schnittstelle</td>	<td>Dualer 1K-Byte-Cache</td></tr>
 <tr><td>durchschnittliche Übertragungsverzögerung</td>	<td><10ms</td></tr>
