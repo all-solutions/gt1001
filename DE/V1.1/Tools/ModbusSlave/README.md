@@ -8,7 +8,7 @@ Jedes Fenster, das innerhalb von Modbus Slave geöffnet wird, kann so konfigurie
 
 OLE Automation für die Verbindung mit Excel. Zur Interpretation und Darstellung der Modbus-Daten gemäß Ihren spezifischen Anforderungen. Bearbeiten Sie z.B. Daten in Excel und übertragen Sie die Daten dann an Ihr Slave-Gerät! Probieren Sie das Excel-Beispiel.xlsm aus, das mit dem Programm installiert wird.
 
-![Modbus Slave](ModbusSlave.jpg)
+![Modbus Slave](ModbusSlave.png)
 
 <b>Unterstützte Protokollvarianten:</b>
 - Modbus RTU
