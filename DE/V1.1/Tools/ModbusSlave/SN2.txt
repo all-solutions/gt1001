@@ -1,0 +1,3 @@
+Modbus Slave version 6.0.2 Build 826
+
+Seriennummer: 5455415451475662
